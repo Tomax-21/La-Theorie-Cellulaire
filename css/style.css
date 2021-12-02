@@ -491,6 +491,10 @@ div.histoire2 {
   letter-spacing: 1px;
 }
 
+.btnImage:hover {
+  background-color: #dd6617;
+}
+
 .carte .contenuTerre .infoTerre {
   position: relative;
   top: 100px;
